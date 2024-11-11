@@ -224,7 +224,7 @@ Author URL: https://themeforest.net/user/codesymbol/
     .contact-form textarea:focus,
     .blog.has-sidebar .sidebar .widget_search input[type="text"]:hover,
     .blog.has-sidebar .sidebar .widget_search input[type="text"]:hover {
-        border-color: #e7a02e;
+        border-color: #de1b55;
     }
 
     header > nav > ul > li.mega-menu > ul h2 {
@@ -239,6 +239,6 @@ Author URL: https://themeforest.net/user/codesymbol/
     .contact-form input[type="email"],
     .contact-form textarea,
     .blog.has-sidebar .sidebar .widget_search input[type="text"] {
-        border-color: #393939;
+        border-color: #bbbbbb;
     }
 
