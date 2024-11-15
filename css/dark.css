@@ -128,7 +128,7 @@ Author URL: https://themeforest.net/user/codesymbol/
     .mfp-iframe-holder .mfp-close,
     .mfp-container .arrow-left,
     .mfp-container .arrow-right,
-    .info-label .label,
+    /* .info-label .label, */
     .flexslider:not(.gallery) .prev,
     .flexslider:not(.gallery) .next,
     .team-member .overlay .name,
@@ -240,5 +240,6 @@ Author URL: https://themeforest.net/user/codesymbol/
     .contact-form textarea,
     .blog.has-sidebar .sidebar .widget_search input[type="text"] {
         border-color: #bbbbbb;
+        border-radius: 6px;
     }
 
