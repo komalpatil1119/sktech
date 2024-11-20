@@ -4071,7 +4071,7 @@ footer a,
         margin-bottom: 14px;
         margin-top: -6px;
         font-size: 20px;
-        letter-spacing: 1px;
+        letter-spacing: 0px;
         line-height: 20px;
     }
     /* header>nav>ul>li:not(.mega-menu) li a {
